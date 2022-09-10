@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BlacboyTheVirus
 - 👀 I’m interested in building stuffs that work.
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning and building stuffs with Laravel
 - 💞️ I’m looking to collaborate on great projects
 - 📫 How to reach me ...
 
